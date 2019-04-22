@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - FizzBuzz",
+            "request": "launch",
+            "mainClass": "FizzBuzz"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pizza",
+            "request": "launch",
+            "mainClass": "Pizza"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Calculator",
             "request": "launch",
             "mainClass": "Calculator"
