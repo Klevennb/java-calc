@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PasswordChallenge",
+            "request": "launch",
+            "mainClass": "PasswordChallenge"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - FizzBuzz",
             "request": "launch",
             "mainClass": "FizzBuzz"

@@ -11,4 +11,4 @@ public class Throw {
         checkIfFits(100, 39); 
         System.out.println("Have a nice day.."); 
         }
-    }
+}
